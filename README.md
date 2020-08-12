@@ -3,3 +3,7 @@
 * Data is given by lecturer in college, which is a clean sample data of 93 employees
 * Decision Tree Classifier is used to reach the model. 
 * Decision Tree visualization using scikit learn
+
+## Code and Resources Used 
+**Python Version:** 3.7  
+**Packages:** pandas, sklearn.
