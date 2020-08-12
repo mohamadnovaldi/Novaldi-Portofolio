@@ -6,3 +6,5 @@ Example of projects done by Mohamad Novaldi
 * Data is given by lecturer in college, which is a clean sample data of 93 employees
 * Decision Tree Classifier is used to reach the model. 
 * Decision Tree visualization using scikit learn
+
+![](https://github.com/mohamadnovaldi/Novaldi-Portofolio/blob/master/images/attrition.png)
