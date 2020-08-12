@@ -7,3 +7,23 @@
 ## Code and Resources Used 
 **Python Version:** 3.7  
 **Packages:** pandas, sklearn.
+
+## Attributes
+Attributes to predict employees attrition are following:
+*	Age
+*	Business Travel
+*	Department
+*	Distance from Home
+*	Education Periode 
+*	Education Field
+*	Environmental Satisfaction
+*	Gender
+*	Job Role
+*	Job Satisfaction 
+*	Marital Status
+*	Monthly Income
+*	Performance Rating
+*	Relationship Satisfaction
+* Work Life Balance
+* Years at Company
+* Years at Current Role
