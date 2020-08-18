@@ -26,4 +26,4 @@ Example of projects done by Mohamad Novaldi
 * SMOTE oversampling was used to handle imbalanced data.
 * Seaborn heatmap was used to handle multicollinearity.
 
-![](/images/heatmap.png)
+![](/images/heatmap1.png)
