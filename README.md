@@ -17,7 +17,7 @@ Example of projects done by Mohamad Novaldi
 
 ![](/images/task_visualization.png)
 
-# [Project 3: Bank Telemarketing Classification: Project Overview](https://github.com/novaldi21/ds_telemarketing_project)
+# [Project 3: Bank Telemarketing Classification](https://github.com/novaldi21/ds_telemarketing_project)
 * Chose the best algorithm to classifies bank customers to be given telemarketing campaign.
 * Data used was Bank Marketing Dataset from UCI Machine Learning Repository consisted with 17 attributes and 45211 records.
 * Target attribute is customer acquirement status after telemarketing was given.
@@ -27,3 +27,12 @@ Example of projects done by Mohamad Novaldi
 * Seaborn heatmap was used to handle multicollinearity.
 
 ![](/images/heatmap1.png)
+
+# [Project 4: Stock Prediction](https://github.com/novaldi21/ds_stock_prediction)
+* Building a future stock prediction model using LSTM (Long-Short Term Memory) Algorithm
+* Data used was a daily stock prices of 500 companies from 2013 to 2018 from Kaggle
+* Data consisted with 7 columns and 1259 rows for each company
+* Model predicts open stock prices of GOOGL
+* Building visualization for prediction model plot
+
+![](/images/Stock_Prediction.png)
